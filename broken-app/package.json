@@ -1,0 +1,17 @@
+{
+  "name": "broken-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "broken_app.js",
+  "scripts": {
+    "start": "node broken_app.js",
+    "test": "node test_broken_app.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0"
+  }
+}
