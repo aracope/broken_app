@@ -2,10 +2,10 @@
   "name": "broken-app",
   "version": "1.0.0",
   "description": "",
-  "main": "broken_app.js",
+  "main": "fixed_app.js",
   "scripts": {
-    "start": "node broken_app.js",
-    "test": "node test_broken_app.js"
+    "start": "node fixed_app.js",
+    "test": "node test_fixed_app.js"
 },
   "keywords": [],
   "author": "",
